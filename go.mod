@@ -45,12 +45,11 @@ require (
 	github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e
 	github.com/stripe/stripe-go/v72 v72.50.0
 	github.com/swaggo/http-swagger v1.3.0
-	github.com/swaggo/swag v1.8.3
 	github.com/urfave/negroni v1.0.0
 	github.com/zesik/proxyaddr v0.0.0-20161218060608-ec32c535184d
 	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d
 	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
-	golang.org/x/text v0.3.7
+	golang.org/x/text v0.3.8
 	google.golang.org/api v0.85.0
 	google.golang.org/genproto v0.0.0-20220801145646-83ce21fca29f
 	google.golang.org/protobuf v1.28.1
@@ -175,6 +174,7 @@ require (
 	github.com/spacemonkeygo/spacelog v0.0.0-20180420211403-2296661a0572 // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
 	github.com/stretchr/testify v1.8.0 // indirect
+	github.com/swaggo/swag v1.8.3 // indirect
 	github.com/trailofbits/go-mutexasserts v0.0.0-20200708152505-19999e7d3cef // indirect
 	github.com/uber/jaeger-client-go v2.25.0+incompatible // indirect
 	github.com/urfave/cli/v2 v2.10.2 // indirect
@@ -272,7 +272,7 @@ require (
 	golang.org/x/oauth2 v0.0.0-20220608161450-d0670ef3b1eb // indirect
 	golang.org/x/sys v0.0.0-20220731174439-a90be440212d // indirect
 	golang.org/x/time v0.0.0-20220210224613-90d013bbcef8 // indirect
-	golang.org/x/tools v0.1.11 // indirect
+	golang.org/x/tools v0.1.12 // indirect
 	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f // indirect
 	gonum.org/v1/gonum v0.9.3 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
